@@ -8,6 +8,8 @@ Create a pull request and add a row to the following table. A good way to includ
 
 You need a wallet like Metamask that can receive Ethereum based tokens. MOR is an ERC-20 type token. Also must support Arbitrum.
 
+test
+
 | Wallet Address | Link to Work | Time Devoted (hrs) | Description of Contribution                                                                                                                                                                                                                           |
 | -------------- | ------------ |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0x682AA10aE360Dd84AFF56E121D77bD6BE0ca04f3| Akash Backend | 6 HR | Fixing truncation issue + Akash deployment for mor.chat  |
